@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c1de215a27614afd9ecae79997fd3c9b
+timeCreated: 1647774068
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "MCenturySchoolbook-Italic"
+  fontNames:
+  - Century Schoolbook
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

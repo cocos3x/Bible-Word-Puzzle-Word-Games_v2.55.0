@@ -1,0 +1,15 @@
+BibleReel.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.7
+effects_reel_1
+bounds:642,554,676,129
+effects_reel_22
+bounds:1,1,640,840
+effects_reel_projection
+bounds:642,684,705,157
+icon_reel
+bounds:642,234,475,319
+icon_reel_1
+bounds:642,50,258,183

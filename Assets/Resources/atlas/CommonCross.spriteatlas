@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "CommonCross"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: d8545fa2974c4c27970b9cbb8b4e1cad, type: 3}
+    - {fileID: 21300000, guid: 6423e407990e4ccb937bcbf318ad2c6e, type: 3}
+    - {fileID: 21300000, guid: 93c9c699988845db8c3676b42eceedc9, type: 3}
+    - {fileID: 21300000, guid: 757f422498684e1dbf7c958f552b97a4, type: 3}
+    - {fileID: 21300000, guid: 3ee56e71658f44339770e3630e41aa45, type: 3}
+    - {fileID: 21300000, guid: b939dacadf1c42c6b977fbf5f9d84f5b, type: 3}
+    - {fileID: 21300000, guid: d6d90929824d4b7bbe534ca496bda444, type: 3}
+    - {fileID: 21300000, guid: e91219faf359493d83cb8b1cfb749c94, type: 3}
+    - {fileID: 21300000, guid: 451063a3714b4aba9e84b8b5dff4ca6d, type: 3}
+    - {fileID: 21300000, guid: 301d50a8f6e642a3b471fd0cadb34f28, type: 3}
+    - {fileID: 21300000, guid: 525f85bb6ef648c48c668d79b4c2372f, type: 3}
+    - {fileID: 21300000, guid: 44357a00cd20406093aea34711654a34, type: 3}
+    - {fileID: 21300000, guid: 8665f8586858482b8b2fcc47079a3b35, type: 3}
+    - {fileID: 21300000, guid: e28563e7b54f424b855548fb2f1a61b8, type: 3}
+    - {fileID: 21300000, guid: 37c9d34387c54236a079323f384faaa9, type: 3}
+    - {fileID: 21300000, guid: 37771ba42d834baeb0151641ee2867b5, type: 3}
+    - {fileID: 21300000, guid: 87d9d5c8cf20459d9bfec69665f8e1f9, type: 3}
+    - {fileID: 21300000, guid: 49b176e73d304cf9884fd100ac994b0b, type: 3}
+    - {fileID: 21300000, guid: 14e569231ba04e7bbf6c7d7536fa9e48, type: 3}
+    - {fileID: 21300000, guid: 9559f5322089426182750dfc351f9e07, type: 3}
+    - {fileID: 21300000, guid: 20d5795059e84aa2bf920042d0d0d77b, type: 3}
+    - {fileID: 21300000, guid: 08558853f6944173ba2fd577d5955f07, type: 3}
+    - {fileID: 21300000, guid: d549ac2f85c24dbabd89fe9ad6189a93, type: 3}
+    - {fileID: 21300000, guid: 16cb280e4a1c4af69991e211e1d4ae69, type: 3}
+    - {fileID: 21300000, guid: 000d8f43608e480380942641e8e7327c, type: 3}
+    - {fileID: 21300000, guid: 1e2a6c23f86a498499ed814e5da4617a, type: 3}
+    - {fileID: 21300000, guid: bea0154b60974b4e84e6f8ee7cdcecde, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "CommonCross"
+  m_IsVariant: 0

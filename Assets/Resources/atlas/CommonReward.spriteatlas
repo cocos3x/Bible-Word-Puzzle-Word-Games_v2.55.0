@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "CommonReward"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: a340410d5ed643398b77acb8b7b76681, type: 3}
+    - {fileID: 21300000, guid: 9f0414395f054729b61aea06d5969e8e, type: 3}
+    - {fileID: 21300000, guid: d9c8fcade05c4608b1fe0271d18b179f, type: 3}
+    - {fileID: 21300000, guid: 8f5ee94de22349589477d2155c6a16e4, type: 3}
+    - {fileID: 21300000, guid: 13f1d2bf92bf4e7b8c9c9a7aaf990d72, type: 3}
+    - {fileID: 21300000, guid: 0b03e35b5af34c0a93f69f0bd8ac5814, type: 3}
+    - {fileID: 21300000, guid: 7e91e870760540e7b29bb354d3c2b982, type: 3}
+    - {fileID: 21300000, guid: de0b00b7f5ee4b5c9bbaf6af20fd26b6, type: 3}
+    - {fileID: 21300000, guid: 18208cf0cc1e41e4a4c5ccc2aa769913, type: 3}
+    - {fileID: 21300000, guid: 06c044f820b44c059d1619e1d731c27b, type: 3}
+    - {fileID: 21300000, guid: 7e55ba7384ce4f9089b1682aebddb1aa, type: 3}
+    - {fileID: 21300000, guid: 9826c39ea071419fa12e2f4c75df21e3, type: 3}
+    - {fileID: 21300000, guid: 399859a73a9f462cb1a1735267619f48, type: 3}
+    - {fileID: 21300000, guid: ee0ecd0949fe4f1f9414d7e6c66a6cda, type: 3}
+    - {fileID: 21300000, guid: d9d8da07c922493d9a6cf08af21baca8, type: 3}
+    - {fileID: 21300000, guid: 0ad6270d2b184701945a2ccfc0d7fea6, type: 3}
+    - {fileID: 21300000, guid: cd5baa9a9119412992fc4db094f49ea2, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "CommonReward"
+  m_IsVariant: 0

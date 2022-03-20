@@ -1,0 +1,15 @@
+BibleContentOpen.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.9
+biblebook_close_frontcover
+bounds:367,29,349,461
+biblebook_close_shadow
+bounds:717,29,461,78
+rotate:90
+biblebook_close_side
+bounds:1,1,27,461
+rotate:90
+biblebook_turn_page
+bounds:1,29,365,461

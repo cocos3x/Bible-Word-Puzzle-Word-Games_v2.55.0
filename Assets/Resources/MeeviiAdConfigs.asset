@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -373972352, guid: f6ab693927bb08de2fa546ac03ff7d65, type: 3}
+  m_Name: "MeeviiAdConfigs"
+  m_EditorClassIdentifier: 
+  plists:
+  - Key: "GADApplicationIdentifier"
+    Value: "ca-app-pub-1701920108708769~4941922371"
+  - Key: "FacebookAppID"
+    Value: "570286136686965"
+  - Key: "UnityAdsSdkGameId"
+    Value: "3201687"
+  - Key: "AppLovinSdkKey"
+    Value: "I41gHx5x77_0BATnMJq03L3-9pI1QWmkbnOuiUprcorozOTJiNKniNmtB2vcZfL9Rl28DrzrdpcbCAwvTEfGcQ"
+  buildProperties:
+  - Key: "DEVELOPMENT_TEAM"
+    Value: 

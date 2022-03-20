@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "ButterFlyActivity"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: fa70772154a8439a9296db6ef92ac7e7, type: 3}
+    - {fileID: 21300000, guid: 2a75d3d5c3684e2cac86256934494ff8, type: 3}
+    - {fileID: 21300000, guid: 5f3f4a23b29342f69105a2b8e12c8b78, type: 3}
+    - {fileID: 21300000, guid: 9c32cda001d94d05ab773de01efb0899, type: 3}
+    - {fileID: 21300000, guid: a03577ceba5743f0acfa1e4e51e0401a, type: 3}
+    - {fileID: 21300000, guid: 8366cb1def674b4f9be5aef163e66f28, type: 3}
+    - {fileID: 21300000, guid: 21ad6b4781d74e6d8621fecb76e6e906, type: 3}
+    - {fileID: 21300000, guid: 98f25902703140a8bd53206492c779b9, type: 3}
+    - {fileID: 21300000, guid: 5de9368477934529a3d955e3e7cd5898, type: 3}
+    - {fileID: 21300000, guid: 6d827a8c6c18465c97588eb4ea924ec7, type: 3}
+    - {fileID: 21300000, guid: f66d3999bbc04661a53393521dd900b4, type: 3}
+    - {fileID: 21300000, guid: 8e2038a1b82b418ea808eec22ec7d737, type: 3}
+    - {fileID: 21300000, guid: 76a302c6c47d4622b65a0b4c716f876a, type: 3}
+    - {fileID: 21300000, guid: f65044b1604746f1b5414ae5ce322d97, type: 3}
+    - {fileID: 21300000, guid: 3b9854ae927d40cf8a633f7b0ed55131, type: 3}
+    - {fileID: 21300000, guid: 1bce62c242eb40adb87b82fd64d1dc8c, type: 3}
+    - {fileID: 21300000, guid: 0389583363df42e093f858994a7cbb00, type: 3}
+    - {fileID: 21300000, guid: 8faa8f40370141f7a48ddd9de077aeb3, type: 3}
+    - {fileID: 21300000, guid: 36b8cd3f2e1140739eeb49c577050481, type: 3}
+    - {fileID: 21300000, guid: 122503c0f4564d7c86ec139381a02720, type: 3}
+    - {fileID: 21300000, guid: 1d9887ebbbb649ebbf2bd55ba70c2cf4, type: 3}
+    - {fileID: 21300000, guid: c5553840c6554fd8bcfc1839825306e5, type: 3}
+    - {fileID: 21300000, guid: d7efba2d775f4889bb9de895f77c275c, type: 3}
+    - {fileID: 21300000, guid: d975ac0d3c8b484eaa8a3badbb5fcdbd, type: 3}
+    - {fileID: 21300000, guid: 15a9363030d44c63936439e6c396e56f, type: 3}
+    - {fileID: 21300000, guid: c430a2db5f27469faa95dad42b206093, type: 3}
+    - {fileID: 21300000, guid: d3398fdbd927464e9c9e6b6660c48131, type: 3}
+    - {fileID: 21300000, guid: 1d0ae909b7124dd9b460ab01ddfa0beb, type: 3}
+    - {fileID: 21300000, guid: 9ee9d61b5256439b8fca305214d663d1, type: 3}
+    - {fileID: 21300000, guid: 079117d005ab44a992a28fd03d2cb9f0, type: 3}
+    - {fileID: 21300000, guid: 47613cd28af142459f103c1883e77af6, type: 3}
+    - {fileID: 21300000, guid: 6e9296543ea14f40b58f8f00419f375b, type: 3}
+    - {fileID: 21300000, guid: 813ded63f383437b83ae1f518f92f168, type: 3}
+    - {fileID: 21300000, guid: e33969d7a5924e40a292be0b532fbb13, type: 3}
+    - {fileID: 21300000, guid: feed4386659a440bb66186098ed06db6, type: 3}
+    - {fileID: 21300000, guid: 8328796636ad48739023618c52d102f0, type: 3}
+    - {fileID: 21300000, guid: d0b1b9fd7e614a8bb6679472ed1982b2, type: 3}
+    - {fileID: 21300000, guid: f0a0292b2109427ca967bff5dea9c563, type: 3}
+    - {fileID: 21300000, guid: 238324057f7d4bed90bf3f64a5581e16, type: 3}
+    - {fileID: 21300000, guid: 7bb78ddb9bcb4d34bc4a616db1b40c7c, type: 3}
+    - {fileID: 21300000, guid: 6feb17f926464d9c8f549bbd3f04e9a7, type: 3}
+    - {fileID: 21300000, guid: 5896db41c30f461082c7a2a9f2d724c7, type: 3}
+    - {fileID: 21300000, guid: aff2a1ef7be44141ad2af4a8e0e6b53e, type: 3}
+    - {fileID: 21300000, guid: ad2e29a57c204b1ebafbf613950e459a, type: 3}
+    - {fileID: 21300000, guid: 3d544ac83c624bee8703663aea2351f5, type: 3}
+    - {fileID: 21300000, guid: ea3f778c5621443e8e8f9cee75b2f189, type: 3}
+    - {fileID: 21300000, guid: 23db32219f784fdabbfe7383e4987f44, type: 3}
+    - {fileID: 21300000, guid: b2865441332741d88bcd8aaf6b7fafe3, type: 3}
+    - {fileID: 21300000, guid: 52d7fc62d2c94be3b7424e951c46bd62, type: 3}
+    - {fileID: 21300000, guid: 5fe5737d4bf04f4c8775f7e420ee93e5, type: 3}
+    - {fileID: 21300000, guid: b037aab75e354c629cf973251e6a61c1, type: 3}
+    - {fileID: 21300000, guid: d06738ef7dc5417f849df5dc922e35c5, type: 3}
+    - {fileID: 21300000, guid: 5003f2e044b94635bd6fc04c094eea6e, type: 3}
+    - {fileID: 21300000, guid: c7bee71449a54c8abcf56ce690967318, type: 3}
+    - {fileID: 21300000, guid: 44014244a8584e13b37d8e1cc3ae161c, type: 3}
+    - {fileID: 21300000, guid: 4eea21eb26b04b6eab1e80bd1a07e2b1, type: 3}
+    - {fileID: 21300000, guid: 4e816fcfe3e04646ab717922c22dd4d1, type: 3}
+    - {fileID: 21300000, guid: 4239fb8802414f74bf48250543b77341, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "ButterFlyActivity"
+  m_IsVariant: 0

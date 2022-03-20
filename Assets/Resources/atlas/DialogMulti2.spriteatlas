@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "DialogMulti2"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 27df5515c9c24035a12ae837538b9a3d, type: 3}
+    - {fileID: 21300000, guid: cc7df3e5bff44169b757fd00a9a07c5a, type: 3}
+    - {fileID: 21300000, guid: 1220457e32d54be19b27faff2e1003ff, type: 3}
+    - {fileID: 21300000, guid: 969b8354750143d8ae7a3e61ca75f4ae, type: 3}
+    - {fileID: 21300000, guid: 689b667a00734fc0b1e90c613a897169, type: 3}
+    - {fileID: 21300000, guid: 7f43c5612e4644cd97c0703a5aa74fbb, type: 3}
+    - {fileID: 21300000, guid: d18c8d5b23674d5993ad454ebe9cf341, type: 3}
+    - {fileID: 21300000, guid: b55905724f07485da357f8c09e8a50f5, type: 3}
+    - {fileID: 21300000, guid: 937651f9021a4bf18ac1a40582389012, type: 3}
+    - {fileID: 21300000, guid: 3b8a1aa2f77b4f6d96dedd26fc87704c, type: 3}
+    - {fileID: 21300000, guid: 04126ae859f74ef398bd0e226517efa0, type: 3}
+    - {fileID: 21300000, guid: 75ba23c6410d4bf79528a9780ce00df7, type: 3}
+    - {fileID: 21300000, guid: d3768a0e28f6409c8b5c9ea099e96fca, type: 3}
+    - {fileID: 21300000, guid: 3c1758517bf0416e82853d2fe4f53887, type: 3}
+    - {fileID: 21300000, guid: 608fd40b721542768e25a7cb0e4a5d01, type: 3}
+    - {fileID: 21300000, guid: 26d9d8974fd24604909d77a9fc8964c6, type: 3}
+    - {fileID: 21300000, guid: 0e578c1e6b7c4b02be751da8993300de, type: 3}
+    - {fileID: 21300000, guid: 04a925c86ffd471cbdda0ba03fd9fe80, type: 3}
+    - {fileID: 21300000, guid: d8271e68f15943549cebfc4b6a79eb50, type: 3}
+    - {fileID: 21300000, guid: 2bef7ba868114524b6ba59dca96f93e9, type: 3}
+    - {fileID: 21300000, guid: 72ae58820e634e5583f91733b4b0591a, type: 3}
+    - {fileID: 21300000, guid: bf666054bc404744834789edbc8a92f2, type: 3}
+    - {fileID: 21300000, guid: fb61a9c05d504763b76ba1cdfb9986ec, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "DialogMulti2"
+  m_IsVariant: 0

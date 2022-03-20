@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "DialogMulti5"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 0e823046a2fb488e988cac38cf78afe7, type: 3}
+    - {fileID: 21300000, guid: a43d85b1764e4ff297f6cca9df7b114c, type: 3}
+    - {fileID: 21300000, guid: fde19e54f82d4d60a4c9b19dd7e51d3f, type: 3}
+    - {fileID: 21300000, guid: 6d2236522e08443b82adfc58cb583eea, type: 3}
+    - {fileID: 21300000, guid: d3019a8e2a434f5bb6501e3fefebb04b, type: 3}
+    - {fileID: 21300000, guid: 04b154154449496184a519a258bb22b0, type: 3}
+    - {fileID: 21300000, guid: a4e9a674603549c184b186606258c770, type: 3}
+    - {fileID: 21300000, guid: e6fc139eb656489992c0e58b374b4bd4, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "DialogMulti5"
+  m_IsVariant: 0

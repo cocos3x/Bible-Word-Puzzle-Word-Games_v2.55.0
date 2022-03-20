@@ -1,0 +1,2095 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790755206213297569
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755206162965920}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790755206162965920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790755206213297569}
+  - component: {fileID: 1790755208058791330}
+  m_Layer: 0
+  m_Name: "LanguageSource"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790755208058791330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755206162965920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ffb661b063a2a917bebbe4cf45e796d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: "1"
+      TermType: 0
+      Languages:
+      - "FULL"
+      - "COMPLETO"
+      - "COMPLETO"
+      - "PUZZLE ASSEMBL\u00C9"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "2"
+      TermType: 0
+      Languages:
+      - "YOU MADE IT!"
+      - "VOC\u00CA CONSEGUIU!"
+      - "\u00A1LO LOGRASTE!"
+      - "Vous l'avez fait!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "3"
+      TermType: 0
+      Languages:
+      - "Solved"
+      - "Resolvido"
+      - "Resuelto"
+      - "R\u00E9solu"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "4"
+      TermType: 0
+      Languages:
+      - "BOOK CLEAR"
+      - "LIVRO TERMINADO"
+      - "BORRAR LIBRO"
+      - "LIVRE TERMIN\u00C9"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "5"
+      TermType: 0
+      Languages:
+      - "CHAPTER CLEAR"
+      - "CAP\u00CDTULO TERMINADO"
+      - "BORRAR CAP\u00CDTULO"
+      - "CHAPITRE TERMIN\u00C9"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "6"
+      TermType: 0
+      Languages:
+      - "LEVEL CLEAR"
+      - "N\u00CDVEL TERMINADO"
+      - "BORRAR NIVEL"
+      - "NIVEAU TERMIN\u00C9"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "7"
+      TermType: 0
+      Languages:
+      - "BONUS"
+      - "B\u00D4NUS"
+      - "EXTRA"
+      - "BONUS"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "8"
+      TermType: 0
+      Languages:
+      - "AMEN"
+      - "AM\u00C9M"
+      - "AMEN"
+      - "AMEN"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "9"
+      TermType: 0
+      Languages:
+      - "FAITHFUL"
+      - "FIEL"
+      - "FIEL"
+      - "FID\u00C8LE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "10"
+      TermType: 0
+      Languages:
+      - "GLORY"
+      - "GL\u00D3RIA"
+      - "GLORIA"
+      - "GLOIRE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "11"
+      TermType: 0
+      Languages:
+      - "GOD BE WITH YOU!"
+      - "DEUS SEJA CONTIGO!"
+      - "QUE DIOS EST\u00C9 CONTIGO"
+      - "QUE DIEU SOIT AVEC VOUS!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "12"
+      TermType: 0
+      Languages:
+      - "YOU MADE IT!"
+      - "VOC\u00CA CONSEGUIU!"
+      - "\u00A1LO LOGRASTE!"
+      - "VOUS L'AVEZ FAIT!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "13"
+      TermType: 0
+      Languages:
+      - "BIBLE"
+      - "B\u00CDBLIA"
+      - "BIBLIA"
+      - "BIBLE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "14"
+      TermType: 0
+      Languages:
+      - "Clear"
+      - "Terminar"
+      - "Borrar"
+      - "Effacer"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "15"
+      TermType: 0
+      Languages:
+      - "Bible Word Puzzle"
+      - "Desafio de palavras da B\u00EDblia"
+      - "Sopa de Letras de la Biblia"
+      - "Puzzle de mots blibique"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "16"
+      TermType: 0
+      Languages:
+      - "This identifier will be used to deliver personalized ads to you."
+      - "Este identificador ser\u00E1 usado para mostrar an\u00FAncios personalizados
+      para voc\u00EA."
+      - "Este identificador se utilizar\u00E1 para ofrecerte anuncios personalizados."
+      - "Cet identifiant sera utilis\u00E9 pour vous proposer des publicit\u00E9s personnalis\u00E9es."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "17"
+      TermType: 0
+      Languages:
+      - "Swipe the word"
+      - "Passe o dedo sobre a palavra"
+      - "Desliza la palabra"
+      - "Balayez le mot"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "18"
+      TermType: 0
+      Languages:
+      - "Great! Now spell"
+      - "\u00D3timo! Agora soletre"
+      - "\u00A1Genial! Ahora deletrea"
+      - "Super! \u00C9pelez maintenant"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "19"
+      TermType: 0
+      Languages:
+      - "If you get stuck, try taping the <color=#00911A>hint<\x2fcolor> or <color=#00911A>shuffle<\x2fcolor>
+      button."
+      - "Se voc\u00EA ficar emperrado, experimente tocar no bot\u00E3o de <color=#00911A>dica<\x2fcolor>
+      ou de <color=#00911A>reorganizar<\x2fcolor>."
+      - "Si te quedas atascado, prueba a pulsar el bot\u00F3n de <color=#00911A>pista<\x2fcolor>
+      o de <color=#00911A>reproducci\u00F3n aleatoria<\x2fcolor>."
+      - "Si vous \u00EAtes bloqu\u00E9, essayez d'appuyer sur le bouton\"<color=#00911A>indice<\x2fcolor>\"ou\"<color=#00911A>m\u00E9lange<\x2fcolor>\"."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "20"
+      TermType: 0
+      Languages:
+      - "God Bless You!"
+      - "Deus te aben\u00E7oe!"
+      - "\u00A1Que Dios te bendiga!"
+      - "Que Dieu vous b\u00E9nisse!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "21"
+      TermType: 0
+      Languages:
+      - "Here are more free coins for you, Keep Studying the Bible!"
+      - "Aqui est\u00E3o mais moedas gr\u00E1tis para voc\u00EA. Continue estudando a B\u00EDblia!"
+      - "Aqu\u00ED hay m\u00E1s monedas gratis para ti, \u00A1Sigue estudiando la Biblia!"
+      - "Voici d'autres pi\u00E8ces gratuites pour vous, continuez \u00E0 \u00E9tudier la
+      Bible!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "22"
+      TermType: 0
+      Languages:
+      - "Collect"
+      - "Coletar"
+      - "Colecciona"
+      - "R\u00E9cup\u00E9rer"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "23"
+      TermType: 0
+      Languages:
+      - "You can click here to check the progress of verse collection."
+      - "Voc\u00EA pode clicar aqui para conferir o progresso da cole\u00E7\u00E3o de vers\u00EDculos."
+      - "Puedes hacer clic aqu\u00ED para comprobar el progreso de la colecci\u00F3n
+      de vers\u00EDculos."
+      - "Vous pouvez cliquer ici pour v\u00E9rifier l'avancement de la collecte
+      des versets."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "24"
+      TermType: 0
+      Languages:
+      - "Got It"
+      - "Entendi"
+      - "Lo tienes"
+      - "C'est fait"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "25"
+      TermType: 0
+      Languages:
+      - "Get coins for each coin box filled!"
+      - "Ganhe moedas para cada caixa preenchida!"
+      - "\u00A1Obt\u00E9n monedas por cada caja de monedas llena!"
+      - "Obtenez des pi\u00E8ces pour chaque bo\u00EEte \u00E0 pi\u00E8ces remplie!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "26"
+      TermType: 0
+      Languages:
+      - "God Bless You!"
+      - "Deus te aben\u00E7oe!"
+      - "\u00A1Dios te bendiga!"
+      - "Que Dieu vous b\u00E9nisse!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "27"
+      TermType: 0
+      Languages:
+      - "Enjoy your welcome gift of {0} FREE coins! Keep Studying the Bible!"
+      - "Desfrute do seu presente de boas-vindas de {0} moedas GR\u00C1TIS! Continue
+      estudando a B\u00EDblia!"
+      - "\u00A1Disfruta de tu regalo de bienvenida de {0} monedas GRATIS! \u00A1Sigue
+      estudiando la Biblia!"
+      - "Profitez de votre cadeau de bienvenue de {0} pi\u00E8ces GRATUITES! Continuez
+      \u00E0 \u00E9tudier la Bible!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "28"
+      TermType: 0
+      Languages:
+      - "Fireworks reveal 5 letters at once!"
+      - "Os fogos de artif\u00EDcio revelam 5 letras de uma vez!"
+      - "\u00A1Los fuegos artificiales revelan 5 letras a la vez!"
+      - "Les feux d'artifice r\u00E9v\u00E8lent 5 lettres \u00E0 la fois!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "29"
+      TermType: 0
+      Languages:
+      - "Try to finish <color=#417A18>Letters<\x2fcolor> with the \"<color=#417A18>{0}<\x2fcolor>\""
+      - "Tente completar <color=#417A18>letras<\x2fcolor> com \"<color=#417A18>{0}<\x2fcolor>\""
+      - "Intenta terminar las <color=#417A18>letras<\x2fcolor> con \"<color=#417A18>{0}<\x2fcolor>\""
+      - "Essayez de finir les <color=#417A18>lettres<\x2fcolor> avec le \"<color=#417A18>{0}<\x2fcolor>\""
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "30"
+      TermType: 0
+      Languages:
+      - "You've already found this word"
+      - "Voc\u00EA j\u00E1 encontrou esta palavra"
+      - "Ya has encontrado esta palabra"
+      - "Vous avez d\u00E9j\u00E0 trouv\u00E9 ce mot"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "31"
+      TermType: 0
+      Languages:
+      - "DICTIONARY"
+      - "DICION\u00C1RIO"
+      - "DICCIONARIO"
+      - "DICTIONNAIRE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "32"
+      TermType: 0
+      Languages:
+      - "Loading{0}"
+      - "Carregando{0}"
+      - "Cargando{0}"
+      - "Chargement{0}"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "33"
+      TermType: 0
+      Languages:
+      - "Connection Failed.Please check your network connection and try again."
+      - "Falha na conex\u00E3o. Verifique a sua conex\u00E3o \u00E0 rede e tente novamente."
+      - "Por favor, comprueba tu conexi\u00F3n de red e int\u00E9ntalo de nuevo."
+      - "La connexion a \u00E9chou\u00E9. Veuillez v\u00E9rifier votre connexion r\u00E9seau et
+      r\u00E9essayer."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "34"
+      TermType: 0
+      Languages:
+      - "Bonus Words"
+      - "Palavras b\u00F4nus"
+      - "Palabras extra"
+      - "Mot bonus"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "35"
+      TermType: 0
+      Languages:
+      - "Bonus words spelled in this level"
+      - "Palavras b\u00F4nus soletradas neste n\u00EDvel"
+      - "Palabras extra deletreadas en este nivel"
+      - "Mots bonus \u00E9pel\u00E9s dans ce niveau"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "36"
+      TermType: 0
+      Languages:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "37"
+      TermType: 0
+      Languages:
+      - "FAITH"
+      - "F\u00C9"
+      - "FE"
+      - "FOI"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "38"
+      TermType: 0
+      Languages:
+      - "Next Level"
+      - "Pr\u00F3ximo n\u00EDvel"
+      - "Pr\u00F3ximo nivel"
+      - "Prochain niveau"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "39"
+      TermType: 0
+      Languages:
+      - "You\u2018ve collect {0} of Gensis"
+      - "Voc\u00EA coletou {0} do G\u00EAnesis"
+      - "Has coleccionado{0} del G\u00E9nesis"
+      - "Vous avez ramass\u00E9 {0} de la Gen\u00E8se"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "40"
+      TermType: 0
+      Languages:
+      - "20 More Coins"
+      - "20 moedas mais"
+      - "20 monedas m\u00E1s"
+      - "20 jetons de plus"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "41"
+      TermType: 0
+      Languages:
+      - "Bible Quiz"
+      - "Quiz da B\u00EDblia"
+      - "Cuestionario de la Biblia"
+      - "Quiz biblique"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "42"
+      TermType: 0
+      Languages:
+      - "Choose the right answer and win <color=#417a18>{0}<\x2fcolor> coins!"
+      - "Escolha a resposta certa e ganhe <color=#417a18>{0}<\x2fcolor> moedas!"
+      - "\u00A1Elige la respuesta correcta y gana <color=#417a18>{0}<\x2fcolor> monedas!"
+      - "Choisissez la bonne r\u00E9ponse et obtenez <color=#417a18>{0}<\x2fcolor>
+      des jetons!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "43"
+      TermType: 0
+      Languages:
+      - "Congrats"
+      - "Parab\u00E9ns"
+      - "Felicitaciones"
+      - "F\u00E9licitations"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "44"
+      TermType: 0
+      Languages:
+      - "Claim"
+      - "Resgatar"
+      - "Reclamar"
+      - "Requ\u00EAte"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "45"
+      TermType: 0
+      Languages:
+      - "SHOP"
+      - "COMPRAR"
+      - "TIENDA"
+      - "BOUTIQUE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "46"
+      TermType: 0
+      Languages:
+      - "SUPER BUNDLE"
+      - "SUPER PACOTE"
+      - "SUPER PAQUETE"
+      - "SUPER PACK"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "47"
+      TermType: 0
+      Languages:
+      - "Most Popular"
+      - "Mais popular"
+      - "M\u00E1s Popular"
+      - "Plus populaire"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "48"
+      TermType: 0
+      Languages:
+      - "MEGA BUNDLE"
+      - "MEGA PACOTE"
+      - "MEGA PAQUETE"
+      - "PACK MEGA"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "49"
+      TermType: 0
+      Languages:
+      - "REMOVE ADS"
+      - "REMOVER AN\u00DANCIOS"
+      - "ELIMINAR AVISOS"
+      - "SUPPRIMER LES ANNONCES"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "50"
+      TermType: 0
+      Languages:
+      - "Remove ads forever"
+      - "Remover an\u00FAncios para sempre"
+      - "Elimina los avisos para siempre"
+      - "Supprimer d\u00E9finitivement les annonces"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "51"
+      TermType: 0
+      Languages:
+      - "More Offers"
+      - "Mais ofertas"
+      - "M\u00E1s Ofertas"
+      - "Plus d'offres"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "52"
+      TermType: 0
+      Languages:
+      - "Purchase failed, please try again."
+      - "Falha na compra. Tente novamente."
+      - "La compra fall\u00F3, por favor vuelve a intentar."
+      - "\u00C9chec de l'achat, veuillez r\u00E9essayer"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "53"
+      TermType: 0
+      Languages:
+      - "BRILLIANT BUNDLE"
+      - "PACOTE BRILHANTE"
+      - "PAQUETE BRILLANTE"
+      - "PACK BRILLIANT"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "54"
+      TermType: 0
+      Languages:
+      - "ULTIMATE BUNDLE"
+      - "PACOTE ULTIMATE"
+      - "PAQUETE FINAL"
+      - "PACK ULTIMATE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "55"
+      TermType: 0
+      Languages:
+      - "<color=#E8171B>{0}%<\x2fcolor> <Size=40>More<\x2fSize>"
+      - "<color=#E8171B>{0}%<\x2fcolor> <Size=40>mais<\x2fSize>"
+      - "<color=#E8171B>{0}%<\x2fcolor> <Size=40>M\u00E1s<\x2fSize>"
+      - "<color=#E8171B>{0}%<\x2fcolor> <Size=40>de plus<\x2fSize>"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "56"
+      TermType: 0
+      Languages:
+      - "Restore"
+      - "Restaurar"
+      - "Restablecer"
+      - "Restaurer"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "57"
+      TermType: 0
+      Languages:
+      - "SALE"
+      - "PROMO\u00C7\u00C3O"
+      - "VENTA"
+      - "VENTE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "58"
+      TermType: 0
+      Languages:
+      - "Purchase failed"
+      - "Falha na compra"
+      - "La compra fall\u00F3"
+      - "\u00C9chec de l'achat"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "59"
+      TermType: 0
+      Languages:
+      - "Please try again later."
+      - "Tente novamente mais tarde."
+      - "Por favor, vuelve a intentar m\u00E1s tarde."
+      - "Veuillez r\u00E9essayer plus tard."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "60"
+      TermType: 0
+      Languages:
+      - "DOUBLE COINS"
+      - "DUPLICAR MOEDAS"
+      - "MONEDAS DOBLES"
+      - "PI\u00C8CES DOUBLE FACE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "61"
+      TermType: 0
+      Languages:
+      - "VALUE"
+      - "VALOR DE"
+      - "VALOR"
+      - "VALEUR"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "62"
+      TermType: 0
+      Languages:
+      - "Limited Time:{0}"
+      - "Tempo limitado:{0}"
+      - "Tiempo Limitado:{0}"
+      - "Dur\u00E9e limit\u00E9e: {0}"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "63"
+      TermType: 0
+      Languages:
+      - "REMOVE ADS BUNDLE"
+      - "PACOTE REMO\u00C7\u00C3O DE AN\u00DANCIOS"
+      - "PAQUETE DE ELIMINACI\u00D3N DE ANUNCIOS"
+      - "SUPPRIMER LES ANNONCES DE PAQUET"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "64"
+      TermType: 0
+      Languages:
+      - "STARTER PACK"
+      - "PACOTE INICIANTE"
+      - "PAQUETE DE INICIO"
+      - "PACK DE LANCEMENT"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "65"
+      TermType: 0
+      Languages:
+      - "SURPRISE SUPER BUNDLE"
+      - "SUPER PACOTE SURPRESA"
+      - "S\u00DAPER PAQUETE SORPRESA"
+      - "SUPER PAQUET SURPRISE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "66"
+      TermType: 0
+      Languages:
+      - "Fill it up by Complete levels to get the most coins for your money!"
+      - "Encha completando os n\u00EDveis para ganhar o m\u00E1ximo de moedas com o
+      seu dinheiro!"
+      - "\u00A1Ll\u00E9nalo completando niveles para conseguir el mayor n\u00FAmero de monedas
+      por tu dinero!"
+      - "Remplissez-le en franchissant des niveaux pour obtenir le plus de
+      pi\u00E8ces pour votre argent!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "67"
+      TermType: 0
+      Languages:
+      - "You\u2018ve got a Piggy Bank!"
+      - "Voc\u00EA tem um cofre porquinho!"
+      - "\u00A1Tienes una Alcanc\u00EDa!"
+      - "Vous avez re\u00E7u une tirelire!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "68"
+      TermType: 0
+      Languages:
+      - "Open"
+      - "Abrir"
+      - "Abrir"
+      - "Ouvrir"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "69"
+      TermType: 0
+      Languages:
+      - "VALUE"
+      - "VALOR"
+      - "VALOR"
+      - "VALEUR"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "70"
+      TermType: 0
+      Languages:
+      - "Book"
+      - "Livro"
+      - "Libro"
+      - "Livre"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "71"
+      TermType: 0
+      Languages:
+      - "Click to Read Verse"
+      - "Clique para ler o vers\u00EDculo"
+      - "Haz clic para Leer Vers\u00EDculos"
+      - "Cliquez pour lire le verset"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "72"
+      TermType: 0
+      Languages:
+      - "Collect All Verses to Get the Cover Art"
+      - "Colete todos os vers\u00EDculos para ganhar a arte de capa"
+      - "Re\u00FAne todos los vers\u00EDculos para obtener la portada"
+      - "Rassemblez tous les versets pour avoir la pochette"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "73"
+      TermType: 0
+      Languages:
+      - "Continue"
+      - "Continuar"
+      - "Continuar"
+      - "Continuer"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "74"
+      TermType: 0
+      Languages:
+      - "Amen"
+      - "Am\u00E9m"
+      - "Am\u00E9n"
+      - "Amen"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "75"
+      TermType: 0
+      Languages:
+      - "You\u2019ve finished The Book Of {0}"
+      - "Voc\u00EA terminou o Livro de{0}"
+      - "Haz terminado El Libro De {0}"
+      - "Vous avez fini le Livre de"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "76"
+      TermType: 0
+      Languages:
+      - "MENU"
+      - "MENU"
+      - "MEN\u00DA"
+      - "MENU"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "77"
+      TermType: 0
+      Languages:
+      - "Home"
+      - "In\u00EDcio"
+      - "Inicio"
+      - "Accueil"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "78"
+      TermType: 0
+      Languages:
+      - "Chapter"
+      - "Cap\u00EDtulo"
+      - "Cap\u00EDtulo"
+      - "Chapitre"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "79"
+      TermType: 0
+      Languages:
+      - "Music"
+      - "M\u00FAsica"
+      - "M\u00FAsica"
+      - "Musique"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "80"
+      TermType: 0
+      Languages:
+      - "Sound"
+      - "Som"
+      - "Sonido"
+      - "Bruit"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "81"
+      TermType: 0
+      Languages:
+      - "Contact Us"
+      - "Fale conosco"
+      - "Contacto"
+      - "Contactez-nous"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "82"
+      TermType: 0
+      Languages:
+      - "We're waiting for your precious ideas and suggestions."
+      - "Estamos esperando as suas valiosas ideias e sugest\u00F5es."
+      - "Esperamos tus ideas y sugerencias"
+      - "Vos pr\u00E9cieuses id\u00E9es et suggestions sont les bienvenues."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "83"
+      TermType: 0
+      Languages:
+      - "Send"
+      - "Enviar"
+      - "Enviar"
+      - "Envoyer"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "84"
+      TermType: 0
+      Languages:
+      - "Quit Game"
+      - "Sair do jogo"
+      - "Salir del Juego"
+      - "Quitter le jeu"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "85"
+      TermType: 0
+      Languages:
+      - "Do you really want to quit?"
+      - "Voc\u00EA quer mesmo sair?"
+      - "\u00BFEn serio quieres salir?"
+      - "Voulez-vous vraiment quitter?"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "86"
+      TermType: 0
+      Languages:
+      - "Yes"
+      - "Sim"
+      - "S\u00ED"
+      - "Oui"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "87"
+      TermType: 0
+      Languages:
+      - "No"
+      - "N\u00E3o"
+      - "No"
+      - "Non"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "88"
+      TermType: 0
+      Languages:
+      - "SETTINGS"
+      - "CONFIGURA\u00C7\u00D5ES"
+      - "CONFIGURACI\u00D3N"
+      - "Param\u00E8tres"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "89"
+      TermType: 0
+      Languages:
+      - "Notification"
+      - "Notifica\u00E7\u00E3o"
+      - "Notificaci\u00F3n"
+      - "Notification"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "90"
+      TermType: 0
+      Languages:
+      - "Privacy Policy"
+      - "Pol\u00EDtica de privacidade"
+      - "Pol\u00EDtica de Privacidad"
+      - "Politique de confidentialit\u00E9"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "91"
+      TermType: 0
+      Languages:
+      - "How to Play?"
+      - "Como jogar"
+      - "\u00BFC\u00F3mo jugar?"
+      - "Comment jouer?"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "92"
+      TermType: 0
+      Languages:
+      - "Complete Daily Puzzle every day and earn daily bonus!"
+      - "Complete os desafios di\u00E1rios todos os dias e ganhe b\u00F4nus di\u00E1rios!"
+      - "\u00A1Complete Daily Puzzle todos los d\u00EDas y gane bonos diarios!"
+      - "Compl\u00E9tez le puzzle quotidien chaque jour et remportez le bonus du
+      jour!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "93"
+      TermType: 0
+      Languages:
+      - "Daily Bonus"
+      - "B\u00F4nus di\u00E1rio"
+      - "Bono Diario"
+      - "Bonus du jour"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "94"
+      TermType: 0
+      Languages:
+      - "Pick your daily bonus!"
+      - "Pegue o seu b\u00F4nus di\u00E1rio!"
+      - "\u00A1Recoge tu bono diario!"
+      - "Prenez votre bonus du jour!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "95"
+      TermType: 0
+      Languages:
+      - "Challenge is not open"
+      - "O desafio n\u00E3o est\u00E1 aberto"
+      - "El desaf\u00EDo no est\u00E1 abierto"
+      - "Le d\u00E9fi n'est pas ouvert"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "96"
+      TermType: 0
+      Languages:
+      - "Daily Challege"
+      - "Desafio di\u00E1rio"
+      - "Desaf\u00EDo diario"
+      - "D\u00E9fi quotidien"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "97"
+      TermType: 0
+      Languages:
+      - "Play"
+      - "Jogar"
+      - "Juega"
+      - "Jouer"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "98"
+      TermType: 0
+      Languages:
+      - "Study Time"
+      - "Horas de estudo"
+      - "Tiempo de estudio"
+      - "Temps d'\u00E9tude"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "99"
+      TermType: 0
+      Languages:
+      - "Study days"
+      - "Dias de estudo"
+      - "D\u00EDas de estudio"
+      - "Journ\u00E9es d'\u00E9tude"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "100"
+      TermType: 0
+      Languages:
+      - "Faith Points"
+      - "Pontos de f\u00E9"
+      - "Puntos de Fe"
+      - "Points de croyance"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "101"
+      TermType: 0
+      Languages:
+      - "Words"
+      - "Palavras"
+      - "Palabras"
+      - "Mots"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "102"
+      TermType: 0
+      Languages:
+      - "Levels"
+      - "N\u00EDveis"
+      - "Niveles"
+      - "Niveaux"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "103"
+      TermType: 0
+      Languages:
+      - "Verses"
+      - "Vers\u00EDculos"
+      - "Vers\u00EDculos"
+      - "Versets"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "104"
+      TermType: 0
+      Languages:
+      - "Books"
+      - "Livros"
+      - "Libros"
+      - "Livres"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "105"
+      TermType: 0
+      Languages:
+      - "God be with You. Amen"
+      - "Deus seja contigo. Am\u00E9m"
+      - "Que Dios est\u00E9 contigo. Am\u00E9n"
+      - "Dieu soit avec vous. Amen"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "106"
+      TermType: 0
+      Languages:
+      - "Thank you for watching"
+      - "Obrigado por assistir"
+      - "Gracias por mirar"
+      - "Merci d'avoir regard\u00E9"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "107"
+      TermType: 0
+      Languages:
+      - "Free Hints"
+      - "Dicas gr\u00E1tis"
+      - "Pistas Gratis"
+      - "Conseils gratuits"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "108"
+      TermType: 0
+      Languages:
+      - "Watch"
+      - "Assistir"
+      - "Mirar"
+      - "Regarder"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "109"
+      TermType: 0
+      Languages:
+      - "Watch a video to earn bonus coins and hints!"
+      - "Assista a um v\u00EDdeo para ganhar moedas e dicas b\u00F4nus!"
+      - "Mira un video para ganar"
+      - "Regardez une vid\u00E9o pour gagner des pi\u00E8ces bonus et des indices!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "110"
+      TermType: 0
+      Languages:
+      - "Video buffering, please try again later."
+      - "V\u00EDdeo carregando, tente novamente mais tarde."
+      - "El video est\u00E1 cargando, por favor, intenta m\u00E1s tarde"
+      - "Mise en m\u00E9moire tampon de la vid\u00E9o, veuillez r\u00E9essayer plus tard."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "111"
+      TermType: 0
+      Languages:
+      - "Don't show me again"
+      - "N\u00E3o mostrar novamente"
+      - "No me muestres otra vez"
+      - "Ne plus afficher"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "112"
+      TermType: 0
+      Languages:
+      - "Word Treasure"
+      - "Tesouro de palavras"
+      - "Tesoro de palabras"
+      - "Mot tr\u00E9sor"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "113"
+      TermType: 0
+      Languages:
+      - "Finish {0} Missions"
+      - "Complete {0} miss\u00F5es"
+      - "Finalizar {0} Misiones"
+      - "Finir {0} Missions"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "114"
+      TermType: 0
+      Languages:
+      - "Finish {0} Words"
+      - "Complete {0} palavras"
+      - "Finalizar {0} Palabras"
+      - "Finir {0} Mots"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "115"
+      TermType: 0
+      Languages:
+      - "Finish {0} \"God Be With You\""
+      - "Complete {0} \"Deus seja contigo!\""
+      - "Finalizar {0} \"Que Dios est\u00E9 contigo\""
+      - "Finir {0}\"Dieu soit avec vous\""
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "116"
+      TermType: 0
+      Languages:
+      - "Finish {0} levels"
+      - "Complete {0} n\u00EDveis"
+      - "Finalizar {0} niveles"
+      - "Finir {0} niveaux"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "117"
+      TermType: 0
+      Languages:
+      - "Click to collect coins!"
+      - "Clique para coletar moedas!"
+      - "\u00A1Haz clic para coleccionar monedas!"
+      - "Cliquez pour collecter les pi\u00E8ces!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "118"
+      TermType: 0
+      Languages:
+      - "{0} Days"
+      - "{0} dias"
+      - "{0} d\u00EDas"
+      - "{0} Jours"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "119"
+      TermType: 0
+      Languages:
+      - "Butterfly Garden"
+      - "Jardim das borboletas"
+      - "Jard\u00EDn de Mariposas"
+      - "Jardin des papillons"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "120"
+      TermType: 0
+      Languages:
+      - "Butterfly Collection"
+      - "Cole\u00E7\u00E3o de borboletas"
+      - "Colecci\u00F3n de Mariposas"
+      - "Collection de papillons"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "122"
+      TermType: 0
+      Languages:
+      - "Hatch"
+      - "Eclodir"
+      - "Salir"
+      - "\u00C9closion"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "123"
+      TermType: 0
+      Languages:
+      - "CHYSALIS"
+      - "CRIS\u00C1LIDA"
+      - "CRIS\u00C1LIDA"
+      - "Chrysalide"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "124"
+      TermType: 0
+      Languages:
+      - "Finish Words"
+      - "Complete as palavras"
+      - "Finalizar Palabras"
+      - "Finir les mots"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "125"
+      TermType: 0
+      Languages:
+      - "Collect Chrysails"
+      - "Colete cris\u00E1lidas"
+      - "Coleccionar Cris\u00E1lidas"
+      - "Collecter chrysalide"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "126"
+      TermType: 0
+      Languages:
+      - "Get Your Butterflies!"
+      - "Ganhe suas borboletas!"
+      - "\u00A1Obt\u00E9n tus mariposas!"
+      - "Obtenez vos papillons!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "127"
+      TermType: 0
+      Languages:
+      - "Click To Hatch Your Chrysail!"
+      - "Clique para fazer eclodir sua cris\u00E1lida!"
+      - "Haz clic para que salga tu cris\u00E1lida"
+      - "Cliquez pour faire \u00E9clore votre chrysalide!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "128"
+      TermType: 0
+      Languages:
+      - "Love Bible Verse Collect?"
+      - "Adora coletar vers\u00EDculos da B\u00EDblia?"
+      - "\u00BFTe gusta Colecciona Vers\u00EDculos de la Biblia?"
+      - "Vous aimez collectionner les versets de la Bible?"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "129"
+      TermType: 0
+      Languages:
+      - "Please take a moment to rate us in App Store."
+      - "Que tal nos avaliar na App Store?"
+      - "Por favor, calif\u00EDcanos en la Tienda"
+      - "Veuillez prendre un moment pour nous \u00E9valuer dans App Store."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "130"
+      TermType: 0
+      Languages:
+      - "Not Now"
+      - "Agora n\u00E3o"
+      - "Ahora no"
+      - "Pas maintenant"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "131"
+      TermType: 0
+      Languages:
+      - "Please find the words which match the required word length!"
+      - "Encontre as palavras que correspondem ao comprimento de palavra requerido!"
+      - "Por favor, encuentra las palabras que concuerdan con la longitud
+      de palabras requerida"
+      - "Veuillez trouver les mots qui correspondent \u00E0 la longueur de mot
+      requise!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "132"
+      TermType: 0
+      Languages:
+      - "Network Error!"
+      - "Erro de rede"
+      - "\u00A1Error de red!"
+      - "Erreur r\u00E9seau!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "133"
+      TermType: 0
+      Languages:
+      - "Thanks for playing, More levels are coming soon!"
+      - "Obrigado por jogar. Mais n\u00EDveis vir\u00E3o em breve!"
+      - "Gracias por jugar, \u00A1est\u00E1n llegando m\u00E1s niveles!"
+      - "Merci d'avoir jou\u00E9, d'autres niveaux seront bient\u00F4t disponibles!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "145"
+      TermType: 0
+      Languages:
+      - "Rapae"
+      - "Rapae"
+      - "Rapae"
+      - "Rapae"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "146"
+      TermType: 0
+      Languages:
+      - "Apollo"
+      - "Apollo"
+      - "Apollo"
+      - "Apollo"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "147"
+      TermType: 0
+      Languages:
+      - "Howqua"
+      - "Howqua"
+      - "Howqua"
+      - "Howqua"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "148"
+      TermType: 0
+      Languages:
+      - "Genutia"
+      - "Genutia"
+      - "Genutia"
+      - "Genutia"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "149"
+      TermType: 0
+      Languages:
+      - "Rumanzovia"
+      - "Rumanzovia"
+      - "Rumanzovia"
+      - "Rumanzovia"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "150"
+      TermType: 0
+      Languages:
+      - "Trogonoptera"
+      - "Trogonoptera"
+      - "Trogonoptera"
+      - "Trogonoptera"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "151"
+      TermType: 0
+      Languages:
+      - "Batesia"
+      - "Batesia"
+      - "Batesia"
+      - "Batesia"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "152"
+      TermType: 0
+      Languages:
+      - "Helenor"
+      - "Helenor"
+      - "Helenor"
+      - "Helenor"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "153"
+      TermType: 0
+      Languages:
+      - "Blumei"
+      - "Blumei"
+      - "Blumei"
+      - "Blumei"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "154"
+      TermType: 0
+      Languages:
+      - "Helena"
+      - "Helena"
+      - "Helena"
+      - "Helena"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "155"
+      TermType: 0
+      Languages:
+      - "Alexandrae"
+      - "Alexandrae"
+      - "Alexandrae"
+      - "Alexandrae"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "156"
+      TermType: 0
+      Languages:
+      - "Papilionidae"
+      - "Papilionidae"
+      - "Papilionidae"
+      - "Papilionidae"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "157"
+      TermType: 0
+      Languages:
+      - "Free Gift"
+      - "Presente gratuito"
+      - "Regalo gratis"
+      - "Cadeau gratuit"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "158"
+      TermType: 0
+      Languages:
+      - "Successfully restored."
+      - "Restaurado com sucesso."
+      - "Restaurado con \u00E9xito."
+      - "Restaur\u00E9 avec succ\u00E8s."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "159"
+      TermType: 0
+      Languages:
+      - "No purchase needed to be restored."
+      - "Nenhuma compra precisou ser restaurada."
+      - "No fue necesario restaurar ninguna compra."
+      - "Aucun achat n\u00E9cessaire pour \u00EAtre restaur\u00E9."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "160"
+      TermType: 0
+      Languages:
+      - "Pass"
+      - "Passar"
+      - "Pasar"
+      - "Passe"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "161"
+      TermType: 0
+      Languages:
+      - "Retry"
+      - "Repetir"
+      - "Rever"
+      - "R\u00E9essayez"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "162"
+      TermType: 0
+      Languages:
+      - "SUN"
+      - "DOM"
+      - "DOM"
+      - "DIM"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "163"
+      TermType: 0
+      Languages:
+      - "MON"
+      - "SEG"
+      - "LUN"
+      - "LUN"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "164"
+      TermType: 0
+      Languages:
+      - "TUE"
+      - "TER"
+      - "MAR"
+      - "MAR"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "165"
+      TermType: 0
+      Languages:
+      - "WED"
+      - "QUA"
+      - "MIE"
+      - "MER"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "166"
+      TermType: 0
+      Languages:
+      - "THU"
+      - "QUI"
+      - "JUE"
+      - "JEU"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "167"
+      TermType: 0
+      Languages:
+      - "FRI"
+      - "SEX"
+      - "VIE"
+      - "VEN"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "168"
+      TermType: 0
+      Languages:
+      - "SAT"
+      - "S\u00C1B"
+      - "SAB"
+      - "SAM"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "169"
+      TermType: 0
+      Languages:
+      - "January"
+      - "Janeiro"
+      - "Enero"
+      - "Janvier"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "170"
+      TermType: 0
+      Languages:
+      - "February"
+      - "Fevereiro"
+      - "Febrero"
+      - "F\u00E9vrier"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "171"
+      TermType: 0
+      Languages:
+      - "March"
+      - "Mar\u00E7o"
+      - "Marzo"
+      - "Mars"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "172"
+      TermType: 0
+      Languages:
+      - "April"
+      - "Abril"
+      - "Abril"
+      - "Avril"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "173"
+      TermType: 0
+      Languages:
+      - "May"
+      - "Maio"
+      - "Mayo"
+      - "Mai"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "174"
+      TermType: 0
+      Languages:
+      - "June"
+      - "Junho"
+      - "Junio"
+      - "Juin"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "175"
+      TermType: 0
+      Languages:
+      - "July"
+      - "Julho"
+      - "Julio"
+      - "Juillet"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "176"
+      TermType: 0
+      Languages:
+      - "August"
+      - "Agosto"
+      - "Agosto"
+      - "Ao\u00FBt"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "177"
+      TermType: 0
+      Languages:
+      - "September"
+      - "Setembro"
+      - "Septiembre"
+      - "Septembre"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "178"
+      TermType: 0
+      Languages:
+      - "October"
+      - "Outubro"
+      - "Octubre"
+      - "Octobre"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "179"
+      TermType: 0
+      Languages:
+      - "November"
+      - "Novembro"
+      - "Noviembre"
+      - "Novembre"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "180"
+      TermType: 0
+      Languages:
+      - "December"
+      - "Dezembro"
+      - "Diciembre"
+      - "D\u00E9cembre"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "181"
+      TermType: 0
+      Languages:
+      - "Jan."
+      - "Jan."
+      - "Ene."
+      - "Jan."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "182"
+      TermType: 0
+      Languages:
+      - "Feb."
+      - "Fev."
+      - "Feb."
+      - "F\u00E9v."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "183"
+      TermType: 0
+      Languages:
+      - "Mar."
+      - "Mar."
+      - "Mar."
+      - "Mar."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "184"
+      TermType: 0
+      Languages:
+      - "Apr."
+      - "Abr."
+      - "Abr."
+      - "Avr."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "185"
+      TermType: 0
+      Languages:
+      - "May."
+      - "Maio"
+      - "May."
+      - "Mai."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "186"
+      TermType: 0
+      Languages:
+      - "Jun."
+      - "Jun."
+      - "Jun."
+      - "Jun."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "187"
+      TermType: 0
+      Languages:
+      - "Jul."
+      - "Jul."
+      - "Jul."
+      - "Juil."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "188"
+      TermType: 0
+      Languages:
+      - "Aug."
+      - "Ago."
+      - "Ago."
+      - "Ao\u00FBt"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "189"
+      TermType: 0
+      Languages:
+      - "Sept."
+      - "Set."
+      - "Sept."
+      - "Sept."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "190"
+      TermType: 0
+      Languages:
+      - "Oct."
+      - "Out."
+      - "Oct."
+      - "Oct."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "191"
+      TermType: 0
+      Languages:
+      - "Nov."
+      - "Nov."
+      - "Nov."
+      - "Nov."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "192"
+      TermType: 0
+      Languages:
+      - "Dec."
+      - "Dez."
+      - "Dic."
+      - "D\u00E9c."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "193"
+      TermType: 0
+      Languages:
+      - "Continue Levels"
+      - "Continuar n\u00EDveis"
+      - "Continuar Niveles"
+      - "Continuer les niveaux"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "194"
+      TermType: 0
+      Languages:
+      - "You've already discovered this extra word."
+      - "Voc\u00EA j\u00E1 descobriu esta palavra extra."
+      - "Ya has descubierto esta palabra extra."
+      - "Vous avez d\u00E9j\u00E0 d\u00E9couvert ce mot suppl\u00E9mentaire."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "195"
+      TermType: 0
+      Languages:
+      - "This identifier will be used to deliver personalized ads to you."
+      - "Esse identificador ser\u00E1 usado para fornecer an\u00FAncios personalizados
+      para voc\u00EA."
+      - "Este identificador se utilizar\u00E1 para enviarle anuncios personalizados."
+      - "Cet identifiant sera utilis\u00E9 pour vous proposer des publicit\u00E9s personnalis\u00E9es."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "196"
+      TermType: 0
+      Languages:
+      - "Watch a video to reveal this letter!"
+      - "Assista a um v\u00EDdeo para revelar esta carta!"
+      - "\u00A1Mira un video para revelar esta carta!"
+      - "Regardez une vid\u00E9o pour r\u00E9v\u00E9ler cette lettre !"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "197"
+      TermType: 0
+      Languages:
+      - "REWARD"
+      - "RECOMPENSA"
+      - "RECOMPENSA"
+      - "R\u00C9COMPENSE"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "198"
+      TermType: 0
+      Languages:
+      - "Watch More"
+      - "Assistir mais"
+      - "Ver m\u00E1s"
+      - "Regarder plus"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "199"
+      TermType: 0
+      Languages:
+      - "Welcome Back"
+      - "Bem vindo de volta"
+      - "Bienvenido de nuevo"
+      - "Content de te revoir"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "200"
+      TermType: 0
+      Languages:
+      - "Rate Us"
+      - "Nos avalie"
+      - "Nos califica"
+      - "\u00C9valuez nous"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "201"
+      TermType: 0
+      Languages:
+      - "Try Again?"
+      - "Tente novamente?"
+      - "\u00BFIntentar otra vez?"
+      - "R\u00E9essayer?"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "202"
+      TermType: 0
+      Languages:
+      - "Congrats!"
+      - "Parab\u00E9ns!"
+      - "\u00A1Felicitaciones!"
+      - "F\u00E9licitations!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "203"
+      TermType: 0
+      Languages:
+      - "Thank You!"
+      - "Obrigada!"
+      - "\u00A1Gracias!"
+      - "Merci!"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "204"
+      TermType: 0
+      Languages:
+      - "Purchase Failed"
+      - "A compra falhou"
+      - "La compra fall\u00F3"
+      - "Achat rat\u00E9"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "205"
+      TermType: 0
+      Languages:
+      - "ERROR"
+      - "ERRO"
+      - "ERROR"
+      - "ERREUR"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "206"
+      TermType: 0
+      Languages:
+      - "Please take a moment to rate us in Play Store."
+      - "Por favor, tome um momento para nos avaliar na Play Store."
+      - "T\u00F3mese un momento para calificarnos en Play Store."
+      - "Veuillez prendre un moment pour nous \u00E9valuer dans Play Store."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "207"
+      TermType: 0
+      Languages:
+      - "S"
+      - "D"
+      - "D"
+      - "D"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "208"
+      TermType: 0
+      Languages:
+      - "M"
+      - "S"
+      - "L"
+      - "L"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "209"
+      TermType: 0
+      Languages:
+      - "T"
+      - "T"
+      - "M"
+      - "M"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "210"
+      TermType: 0
+      Languages:
+      - "W"
+      - "Q"
+      - "M"
+      - "M"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "211"
+      TermType: 0
+      Languages:
+      - "T"
+      - "Q"
+      - "J"
+      - "J"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "212"
+      TermType: 0
+      Languages:
+      - "F"
+      - "S"
+      - "V"
+      - "V"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "213"
+      TermType: 0
+      Languages:
+      - "S"
+      - "S"
+      - "S"
+      - "S"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "214"
+      TermType: 0
+      Languages:
+      - "Here are more free coins  for you, Keep Studying  the Bible!"
+      - "Aqui est\u00E3o mais moedas gr\u00E1tis para voc\u00EA, continue estudando a B\u00EDblia!"
+      - "Aqu\u00ED hay m\u00E1s monedas gratis para ti, \u00A1sigue estudiando la Biblia!"
+      - "Voici plus de pi\u00E8ces gratuites pour vous, continuez \u00E0 \u00E9tudier la
+      Bible !"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "215"
+      TermType: 0
+      Languages:
+      - "God is saying..."
+      - "Deus est\u00E1 dizendo..."
+      - "Dios est\u00E1 diciendo..."
+      - "Dieu dit..."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "216"
+      TermType: 0
+      Languages:
+      - "Have faith and stay in prayer"
+      - "Tenha f\u00E9 e fique em ora\u00E7\u00E3o"
+      - "Ten fe y mantente en oraci\u00F3n"
+      - "Ayez foi et restez dans la pri\u00E8re"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "217"
+      TermType: 0
+      Languages:
+      - "You are not alone\u2600\uFE0F"
+      - "Voc\u00EA n\u00E3o est\u00E1 sozinho\u2600\uFE0F"
+      - "No est\u00E1s solo\u2600\uFE0F"
+      - "Vous n'\u00EAtes pas seul\u2600\uFE0F"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "218"
+      TermType: 0
+      Languages:
+      - "God is always with us\u2764\uFE0F"
+      - "Deus est\u00E1 sempre conosco\u2764\uFE0F"
+      - "Dios est\u00E1 siempre con nosotros\u2764\uFE0F"
+      - "Dieu est toujours \u00E0 nos c\u00F4t\u00E9s\u2764\uFE0F"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "219"
+      TermType: 0
+      Languages:
+      - "What does Bible mean to you\u2753"
+      - "O que a B\u00EDblia significa para voc\u00EA\u2753"
+      - "Qu\u00E9 significa la Biblia para ti\u2753"
+      - "Que signifie la Bible pour vous\u2753"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "220"
+      TermType: 0
+      Languages:
+      - "Have honest conversations with God\u2764\uFE0F\uFE0F"
+      - "Tenha conversas sinceras com Deus\u2764\uFE0F\uFE0F"
+      - "Ten conversaciones sinceras con Dios\u2764\uFE0F\uFE0F"
+      - "Ayez des conversations honn\u00EAtes avec Dieu\u2764\uFE0F\uFE0F"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "221"
+      TermType: 0
+      Languages:
+      - "Stop Worrying\u231B"
+      - "Pare de se preocupar\u231B"
+      - "Deja de preocuparte\u231B"
+      - "Arr\u00EAtez de vous inqui\u00E9ter\u231B"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "222"
+      TermType: 0
+      Languages:
+      - "And Start Trusting God"
+      - "E comece a confiar em Deus"
+      - "Y empieza a confiar en dios"
+      - "Et commencez \u00E0 faire confiance \u00E0 Dieu"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "223"
+      TermType: 0
+      Languages:
+      - "Stop Worrying\u231B\uFE0F"
+      - "Pare de se preocupar\u231B\uFE0F"
+      - "Deja de preocuparte\u231B\uFE0F"
+      - "Arr\u00EAtez de vous inqui\u00E9ter\u231B\uFE0F"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "224"
+      TermType: 0
+      Languages:
+      - "Lord will continue to guide you"
+      - "O Senhor continuar\u00E1 a te guiar"
+      - "El Se\u00F1or continuar\u00E1 gui\u00E1ndote"
+      - "Le Seigneur continuera \u00E0 vous guider"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "225"
+      TermType: 0
+      Languages:
+      - "How God Works Through Imperfect People?\u2764"
+      - "Como Deus opera atrav\u00E9s de pessoas imperfeitas?\u2764"
+      - "\u00BFC\u00F3mo trabaja Dios por medio de la gente imperfecta?\u2764"
+      - "Comment Dieu travaille \u00E0 travers des personnes imparfaites?\u2764"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "226"
+      TermType: 0
+      Languages:
+      - "Embrace the imperfections"
+      - "As imperfei\u00E7\u00F5es fazem parte"
+      - "Abraza las imperfeccones"
+      - "Acceptez les imperfections"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "227"
+      TermType: 0
+      Languages:
+      - "\u2764\uFE0FGod is saying..."
+      - "\u2764\uFE0FDeus est\u00E1 dizendo..."
+      - "\u2764\uFE0FDios est\u00E1 diciendo..."
+      - "\u2764\uFE0FDieu dit..."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "228"
+      TermType: 0
+      Languages:
+      - "Have faith and stay in God\u2019s Words."
+      - "Tenha f\u00E9 e continue na Palavra de Deus."
+      - "Ten fe y qu\u00E9date en las Palabras de Dios."
+      - "Ayez foi et restez dans les paroles de Dieu."
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "229"
+      TermType: 0
+      Languages:
+      - "Words Treasure started!\uD83C\uDF08"
+      - "Tesouro de palavras come\u00E7ou!\uD83C\uDF08"
+      - "\u00A1Palabras Tesoro comenz\u00F3!\uD83C\uDF08"
+      - "Words Treasure a commenc\u00E9!\uD83C\uDF08"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "230"
+      TermType: 0
+      Languages:
+      - "Come and Play to Win the Grand Prize!\uD83C\uDF81"
+      - "Venha e jogue para ganhar o grande pr\u00EAmio!\uD83C\uDF81"
+      - "\u00A1Ven y juega para ganar el gran premio!\uD83C\uDF81"
+      - "Venez jouer pour gagner le grand prix !\uD83C\uDF81"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "231"
+      TermType: 0
+      Languages:
+      - "Go To Quiz"
+      - "Ir para o teste"
+      - "Ir al cuestionario"
+      - "Aller au questionnaire"
+      Flags: 00000000
+      Languages_Touch: []
+    - Term: "232"
+      TermType: 0
+      Languages:
+      - "Coming Soon"
+      - "Em breve"
+      - "Pr\u00F3ximamente"
+      - "\u00C0 venir"
+      Flags: 00000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: "English (United States)"
+      Code: "en-US"
+      Flags: 0
+    - Name: "Portuguese"
+      Code: "pt"
+      Flags: 0
+    - Name: "Spanish"
+      Code: "es"
+      Flags: 0
+    - Name: "French"
+      Code: "fr"
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+  version: 1
+  NeverDestroy: 0
+  UserAgreesToHaveItOnTheScene: 0
+  UserAgreesToHaveItInsideThePluginsFolder: 0
+  GoogleLiveSyncIsUptoDate: 1
+  Assets: []
+  Google_WebServiceURL: 
+  Google_SpreadsheetKey: 
+  Google_SpreadsheetName: 
+  Google_LastUpdatedVersion: 
+  GoogleUpdateFrequency: 3
+  GoogleUpdateDelay: 5
+  mLanguages: []
+  IgnoreDeviceLanguage: 0
+  _AllowUnloadingLanguages: 0
+  mTerms: []
+  CaseInsensitiveTerms: 0
+  OnMissingTranslation: 1
+  mTerm_AppName: 
